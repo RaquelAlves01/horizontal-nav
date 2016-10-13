@@ -22,5 +22,11 @@ color: #fff;
 }
 
 nav li {
+  font-family: sans-serif;
   display: inline-block;
+  margin: .3em;
+  max-width: 20em;
+  padding: .6em;
+  background-color: #713837;
+  border-radius: 10px;
 }
