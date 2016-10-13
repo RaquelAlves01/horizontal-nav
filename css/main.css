@@ -9,4 +9,9 @@ html {
 h1 {
   font-family: "bevan", cursive;
   color:#fff;
+  text-align: center;
+}
+
+nav li {
+
 }
