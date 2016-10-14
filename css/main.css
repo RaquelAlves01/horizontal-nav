@@ -1,7 +1,7 @@
 html {
   box-sizing: border-box;
-  line-height: 1.5;
   background-color: #dbd6cf;
+  margin-bottom: 0;
 }
 
 *, *::before, *::after {
@@ -9,7 +9,10 @@ html {
 }
 
 body {
-  background: #000;
+  background: #79756f;
+  margin-bottom: 0;
+  padding: .6em;
+  padding-color: #595652;
 }
 
 h1 {
@@ -19,9 +22,7 @@ h1 {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
-  padding: .6em;
-  margin: 0.3em;
-  background: #595652;
+  padding: .5em .75em ;
 }
 
 nav {
@@ -37,7 +38,7 @@ nav li {
   display: inline-block;
   margin: .3em;
   max-width: 20em;
-  padding: .6em;
+  padding: 0.6em;
   background-color: #713837;
   border-radius: 10px;
   text-align: center;
