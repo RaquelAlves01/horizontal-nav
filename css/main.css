@@ -1,7 +1,7 @@
 html {
   box-sizing: border-box;
   background-color: #dbd6cf;
-  margin-bottom: 0;
+  margin: 0;
 }
 
 *, *::before, *::after {
@@ -10,13 +10,13 @@ html {
 
 body {
   background: #79756f;
-  margin-bottom: 0;
+  margin: 0;
   padding: .6em;
   padding-color: #595652;
 }
 
 h1 {
-  font-family: "bevan", sans-serif;
+  font-family: "bevan", cursive;
   line-height: 1.5;
   color:#fff;
   margin-left: auto;
