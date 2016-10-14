@@ -24,6 +24,7 @@ margin: .3em;
 padding: 0.6em;
 list-style-type: none;
 color: #fff;
+text-align: center;
 }
 
 nav li {
@@ -34,4 +35,16 @@ nav li {
   padding: .6em;
   background-color: #713837;
   border-radius: 10px;
+  text-align: center;
+}
+
+nav a {
+  text-decoration: none;
+  color: #fff;
+}
+
+a:hover {
+  background-color: #f33;
+  color: #fff;
+
 }
