@@ -7,6 +7,11 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+body {
+  background: #000;
+}
+
 h1 {
   font-family: "bevan", sans-serif;
   line-height: 1.5;
@@ -43,7 +48,7 @@ nav a {
   color: #fff;
 }
 
-a:hover {
+li:hover {
   background-color: #f33;
   color: #fff;
 
