@@ -24,12 +24,12 @@ header h1 {
   line-height: 0;
 }
 
-nav {
-margin: .3em;
-padding: 0.6em;
-list-style-type: none;
-color: #fff;
-text-align: center;
+header nav {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  list-style-type: none;
+  color: #fff;
 }
 
 nav li {
