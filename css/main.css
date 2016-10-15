@@ -32,7 +32,7 @@ header nav {
   color: #fff;
 }
 
-nav li {
+header nav li {
   font-family: sans-serif;
   display: inline-block;
   margin: .3em;
