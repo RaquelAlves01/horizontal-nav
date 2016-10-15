@@ -19,7 +19,7 @@ header {
 }
 
 h1 {
-  font-family: "bevan", cursive;
+  font-family: "Bevan", serif;
   color:#fff;
 }
 
@@ -54,7 +54,7 @@ header nav li a {
   color: #fff;
 }
 
-header nav li:hover {
+header nav li a:hover {
   background-color: #f33;
   color: #fff;
 }
