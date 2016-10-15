@@ -14,7 +14,7 @@ body {
 
 header {
   background: #79756f;
-  padding: .6em;
+  padding: .5em .75em;
   border: 3px solid #595652;
 }
 
@@ -41,11 +41,11 @@ header nav li {
   font-family: sans-serif;
   display: inline-block;
   line-height: 1.5;
-  margin: 0.1em;
+  margin: 0;
   max-width: 20em;
   padding: 0.5em 0.75em;
   background-color: #713837;
-  border-radius: 5px;
+  border-radius: 3px;
   text-align: center;
 }
 
