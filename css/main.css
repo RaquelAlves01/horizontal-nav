@@ -7,12 +7,12 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
-
 body {
-  background: #79756f;
   margin: 0;
+}
+header  {
+  background: #79756f;
   padding: .6em;
-  padding-color: #595652;
 }
 
 h1 {
