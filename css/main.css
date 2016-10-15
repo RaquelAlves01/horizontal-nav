@@ -44,7 +44,7 @@ header nav li {
   text-align: center;
 }
 
-nav a {
+header nav li a {
   text-decoration: none;
   color: #fff;
 }
